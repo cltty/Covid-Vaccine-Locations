@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>COVID-19 Vaccine Providers</name>
+    <description>The vaccine provider map/list is updated every Wednesday with locations that have received vaccine shipments within the past two weeks. While vaccine supplies are limited, providers on this map may or may not have vaccine or appointments currently available. Please call for information before visiting</description>
+    <NetworkLink>
+      <name>COVID-19 Vaccine Providers</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1x9KT3SJub0igOTnhFtdRYmceZuBXMWvK]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
